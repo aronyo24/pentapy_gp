@@ -1,1 +1,0 @@
-# pentapy_gp
